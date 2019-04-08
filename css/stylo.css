@@ -76,7 +76,3 @@ body {
     grid-column: 2 / 4;
     grid-row: 7 / 9;
 }
-.grid-item_two p {
-    position: absolute;
-    bottom: 10px;
-}
