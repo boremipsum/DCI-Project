@@ -76,4 +76,6 @@ body {
     grid-row: 7 / 9;
 }
 
-.grid-item grid-item_two p {overflow:hidden;}
+.grid-item grid-item_two p {overflow:hidden; margin:0;}
+
+
